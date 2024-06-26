@@ -1,0 +1,29 @@
+{
+  "name": "GPT-API",
+  "version": "1.0.0",
+  "description": "An Express server interacting with an external API for chat completion.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs", "express", "axios", "api", "server", "gpt", "openai", "ai"],
+  "author": "ArYAN",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itzaryan686/GPT-API.git"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/itzaryan686/GPT-API/issues"
+  },
+  "homepage": "https://github.com/itzaryan686/GPT-API#readme"
+}
