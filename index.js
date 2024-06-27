@@ -13,7 +13,7 @@ app.get('/api/gpt', async (req, res) => {
 
     try {
         // Make a GET request to the external API
-        const apiUrl = 'https://openai-gptt-v1.onrender.com';
+        const apiUrl = 'https://openai-v01.onrender.com/chat';
         const response = await axios.get(apiUrl, {
             params: {
                 prompt,
