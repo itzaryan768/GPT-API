@@ -10,7 +10,7 @@ const supportedModels = [
 ];
 
 const fetchGPTResponse = async (prompt, model, systemPrompt) => {
-  const apiUrl = 'https://openai-v01.onrender.com/chat';
+  const apiUrl = 'https://gpt-models-v1.onrender.com/chat';
   const params = { prompt, model, system_prompt: systemPrompt };
 
   try {
