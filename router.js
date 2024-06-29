@@ -1,4 +1,3 @@
-// router.js
 const express = require('express');
 const gptHandler = require('./gptHandler');
 
