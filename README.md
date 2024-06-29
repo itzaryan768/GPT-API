@@ -43,8 +43,8 @@ The following models are supported by the ChatGPT API:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/chatgpt-api.git
-cd chatgpt-api
+git clone https://github.com/itzaryan768/GPT-API.git
+cd GPT-API
 ```
 
 Install dependencies:
