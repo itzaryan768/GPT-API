@@ -1,7 +1,3 @@
-Creating a full `README.md` tutorial involves providing comprehensive documentation for your API, including features, usage instructions, model details, file structure, and more. Below is a template to get you started:
-
----
-
 # ChatGPT API Documentation
 
 Welcome to the ChatGPT API documentation! This API allows you to interact with OpenAI's ChatGPT models for generating text-based responses. Whether you're looking to integrate conversational AI into your application or explore natural language understanding, ChatGPT API provides a versatile toolset.
